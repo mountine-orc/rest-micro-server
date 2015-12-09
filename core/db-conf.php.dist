@@ -1,0 +1,6 @@
+<?php
+$dbConfig = [
+    "dbname" => "levi9",
+    "user" => "root",
+    "password" => ""
+    ];
